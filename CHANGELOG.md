@@ -11,7 +11,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Listen together on any streaming service with Sonora Session: start one from the devices button, share its six-digit code, and everyone who joins hears the same song in step.
 - `sonora session` starts, joins or leaves a Sonora Session from the command line.
-- A Members panel beside the lyrics and queue lists who is in your Sonora Session or Spotify Jam, and an accent dot on the devices button shows one is under way.
+- A Members panel, opened from the devices menu, lists who is in your Sonora Session or Spotify Jam and lets the host remove someone. An accent dot on the devices button shows one is under way.
 
 ### Changed
 
