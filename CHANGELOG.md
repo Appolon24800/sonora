@@ -11,10 +11,12 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Listen together on any streaming service with Sonora Session: start one from the devices button, share its six-digit code, and everyone who joins hears the same song in step.
 - `sonora session` starts, joins or leaves a Sonora Session from the command line.
+- A Members panel beside the lyrics and queue lists who is in your Sonora Session or Spotify Jam, and an accent dot on the devices button shows one is under way.
 
 ### Changed
 
 - The devices button in the player bar shows for every streaming service and sits evenly beside the lyrics and queue buttons.
+- Spotify Jam controls sit together under a Spotify Jams submenu of the devices button, and the strip above the player bar is gone.
 - A song's right-click menu groups Artist, Album, Radio and Details under one Go to submenu.
 
 ### Fixed
